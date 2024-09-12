@@ -1,0 +1,1 @@
+SELECT * FROM `click and cart`.employees;
